@@ -1,0 +1,4 @@
+[submodule "wpa_ctrl/hostap"]
+	path = wpa_ctrl/hostap
+	url = git://w1.fi/srv/git/hostap.git
+	branch = hostap_2_5

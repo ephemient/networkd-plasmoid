@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=networkd
+Comment=networkd
+Type=Service
+Icon=plasma
+
+X-KDE-ServiceTypes=Plasma/DataEngine
+X-KDE-Library=plasma_engine_networkd
+
+X-KDE-PluginInfo-Author=Tzy-Jye Daniel Lin
+X-KDE-PluginInfo-Email=ephemient@gmail.com
+X-KDE-PluginInfo-Name=networkd
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://github.com/ephemient/networkd-plasmoid
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=BSD
+X-KDE-PluginInfo-EnabledByDefault=true
